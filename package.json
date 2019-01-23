@@ -1,0 +1,8 @@
+{
+  "name": "mjml-travel-agenct-email-template",
+  "version": "1.0.0",
+  "description": "Responsive travel agency template build with mjml",
+  "main": "index.js",
+  "author": "Kristiyan Todorov",
+  "license": "MIT"
+}
